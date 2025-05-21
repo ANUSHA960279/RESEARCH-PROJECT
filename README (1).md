@@ -4,9 +4,6 @@
 - Harsh Chavva
 - Nandini Gunda
 - Anusha Pogaku
-- Stephen Wheeler
-- Ravi Varma Kumar Bevara
-- Krishna Annavaram
 
 ## 📄 Project Summary
 
