@@ -53,8 +53,9 @@ Machine learning and statistical models used include:
 
 ## 📊 Interactive Dashboard
 
-Visualize Texas library data using the Tableau dashboard:  
-> [📍 Tableau Dashboard Link]
+Visualize Texas library data using the Tableau dashboard:
+https://public.tableau.com/app/profile/anusha.pogaku/viz/DTSC_5082_401Group9_DataVisualizations/Dashboard1
+
 ![image](https://github.com/user-attachments/assets/92b02686-33e1-4985-b85c-afed04a7d78f)
 
 
